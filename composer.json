@@ -1,0 +1,7 @@
+{
+    "name": "telegabot",
+    "description": "bot bot bot",
+    "require": {
+        "php": "^7.0"
+    }
+}
