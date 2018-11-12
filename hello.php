@@ -1,3 +1,3 @@
 <?php
 
-echo "test!\n";
+echo "test ewe raz!\n";
